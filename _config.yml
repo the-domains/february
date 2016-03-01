@@ -1,7 +1,7 @@
 name: February
 favicon: null
-layout_spectrum: 0.4780439715832472
-typography_spectrum: 0.37306672031991184
+layout_spectrum: 0.36979
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.09766081720590591
-  lightness: 0.5766845364123583
-  saturation: 0.6170873346272856
-  rhythmicContrast: 0.07621206250041723
+  brandStrength: 0.8125
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
